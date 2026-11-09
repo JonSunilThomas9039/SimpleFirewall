@@ -865,8 +865,6 @@ More importantly, it demonstrates how programmable kernel-level networking can b
 
 This project is intended for educational and research purposes.
 
-A license has not yet been assigned. Add an appropriate `LICENSE` file before distributing or publishing the project.
-
 ---
 
 ## 17. Author
